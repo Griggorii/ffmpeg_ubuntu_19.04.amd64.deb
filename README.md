@@ -1,7 +1,9 @@
 # ffmpeg_ubuntu_19.04.amd64.deb
 ffmpeg_ubuntu_19.04.amd64.deb
 
-Download link
+Download link версия 18.04 сделана на моем дистрибутиве который был смешан с 16.04 как известно на самом деле он обычно после 16.04 убунты не мог компилироваться.
+
+ffmpeg_18.04-1_amd64.deb https://drive.google.com/open?id=1gT7jnL8taLOh5eZ68dPPnonL3V0Sb4bv
 
 
 ffmpeg_16.04-1_amd64.deb https://drive.google.com/open?id=1bfFecgMALvcjE7BcI5BDM28yDGcw5FVS

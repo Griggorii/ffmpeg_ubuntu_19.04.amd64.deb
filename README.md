@@ -13,8 +13,8 @@ nv-codec-headers_10102019-1_amd64.deb https://drive.google.com/open?id=171lLH5zL
 
 --------------------------------------------------------------------------------------------------------------
 
-griggorii@GriggoriiX64:~
-$ ffmpeg -formats
+
+ffmpeg -formats
 ffmpeg version 4.2.git Copyright (c) 2000-2019 the FFmpeg developers
   built with gcc 8 (Ubuntu 8.3.0-6ubuntu1)
   configuration: --prefix=/usr --disable-x86asm

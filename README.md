@@ -1,7 +1,7 @@
 # ffmpeg_ubuntu_19.04.amd64.deb
 ffmpeg_ubuntu_19.04.amd64.deb
 
-Download link версия 18.04 сделана на моем дистрибутиве который был смешан с 16.04 как известно на самом деле он обычно после 16.04 убунты не мог компилироваться.
+ffmpeg_19.04-1_amd64.deb https://drive.google.com/open?id=1XRTDoIBSVq90l9dHwgD_n5dx0Tc2FD_u
 
 ffmpeg_18.04-1_amd64.deb https://drive.google.com/open?id=1gT7jnL8taLOh5eZ68dPPnonL3V0Sb4bv
 
@@ -17,7 +17,7 @@ griggorii@GriggoriiX64:~
 $ ffmpeg -formats
 ffmpeg version 4.2.git Copyright (c) 2000-2019 the FFmpeg developers
   built with gcc 8 (Ubuntu 8.3.0-6ubuntu1)
-  configuration: --disable-x86asm
+  configuration: --prefix=/usr --disable-x86asm
   libavutil      56. 33.100 / 56. 33.100
   libavcodec     58. 55.100 / 58. 55.100
   libavformat    58. 31.101 / 58. 31.101
@@ -378,4 +378,3 @@ File formats:
  D  xwma            Microsoft xWMA
  D  yop             Psygnosis YOP
  DE yuv4mpegpipe    YUV4MPEG pipe
-
